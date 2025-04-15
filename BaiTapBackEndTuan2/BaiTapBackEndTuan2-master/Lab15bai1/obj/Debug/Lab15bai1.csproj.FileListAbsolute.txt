@@ -1,0 +1,7 @@
+D:\BackEnd\Lab11app\Lab15bai1\bin\Debug\Lab15bai1.exe.config
+D:\BackEnd\Lab11app\Lab15bai1\bin\Debug\Lab15bai1.exe
+D:\BackEnd\Lab11app\Lab15bai1\bin\Debug\Lab15bai1.pdb
+D:\BackEnd\Lab11app\Lab15bai1\obj\Debug\Lab15bai1.csproj.AssemblyReference.cache
+D:\BackEnd\Lab11app\Lab15bai1\obj\Debug\Lab15bai1.csproj.CoreCompileInputs.cache
+D:\BackEnd\Lab11app\Lab15bai1\obj\Debug\Lab15bai1.exe
+D:\BackEnd\Lab11app\Lab15bai1\obj\Debug\Lab15bai1.pdb
